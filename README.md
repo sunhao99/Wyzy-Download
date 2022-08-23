@@ -3,3 +3,6 @@
 # # 2022-8-23 简历模板打包下载
 蓝奏云：https://wwu.lanzoub.com/iYwtX0a37lna
 密码:Wyzy
+# # 考研网课网盘更新
+'''安心考研'''
+链接：http://axky.ysepan.com/
