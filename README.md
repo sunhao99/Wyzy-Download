@@ -10,3 +10,7 @@
 |安心考研|http://axky.ysepan.com/|
 |金榜题名|http://qzbltushu.ysepan.com/|
 |考研学子之家|http://kyxz.ysepan.com/|
+
+## Charles && mumu网易模拟器
+蓝奏云：https://wwu.lanzoub.com/iIxNR0a3lv8j
+密码:wyzy
