@@ -4,5 +4,8 @@
 蓝奏云：https://wwu.lanzoub.com/iYwtX0a37lna
 密码:Wyzy
 # # 考研网课网盘更新
-'''安心考研'''
-链接：http://axky.ysepan.com/
+|名称|链接|
+|:-:|:-:|
+|安心考研|http://axky.ysepan.com/|
+|金榜题名|http://qzbltushu.ysepan.com/|
+|考研学子之家|http://kyxz.ysepan.com/|
