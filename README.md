@@ -29,3 +29,10 @@
 ## DrawboardPDF
 下载地址：微软应用商店
 官网：https://www.drawboard.com/pdf
+# 2022-8-24 2014机器学习资料
+【机器学习课程2014教程和笔记】https://www.aliyundrive.com/s/YbyF3PgGffU
+【机器学习课程2014pdf】https://www.aliyundrive.com/s/qd3gUb4G9Pm
+【机器学习课程2014源代码】https://www.aliyundrive.com/s/wRCTHz9fjZ3
+【机器学习课程2014视频】https://www.aliyundrive.com/s/kaprsYVZsEf
+
+
