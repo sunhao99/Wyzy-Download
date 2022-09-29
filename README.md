@@ -19,7 +19,7 @@
 ## UPDF下载
 官网：https://www.updf.cn/
 ## PDF-XChange Editor
-百度网盘: https://pan.baidu.com/s/1OziXJ6mbsAobjhunzzRpPQ?pwd=Wyzy 
+百度网盘: ?pwd=Wyzy 
 提取码: Wyzy 
 ## PDF24
 官网：https://tools.pdf24.org/zh/
