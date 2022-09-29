@@ -37,5 +37,23 @@
 |【机器学习课程2014源代码】|https://www.aliyundrive.com/s/wRCTHz9fjZ3|
 |【机器学习课程2014视频】|https://www.aliyundrive.com/s/kaprsYVZsEf|
 
-
+# 2022-09-29 公众号中的几个链接
+|名称|链接|
+|:-:|:-:|
+|搜狗微信|https://weixin.sogou.com/|
+|搬书匠|http://www.banshujiang.cn/|
+|萌搜|https://mengso.com/|
+|F搜|https://fsoufsou.com/|
+|X-MOL学术平台|https://www.x-mol.com/|
+|学术搜索平台|https://xueshu.lanfanshu.cn/|
+|国家中小学教育平台|https://www.zxx.edu.cn/|
+|全国图书馆参考咨询联盟|http://www.ucdrs.superlib.net/|
+|真题在线|https://zhenti.burningvocabulary.com/|
+|考研英语真题|https://zhenti.burningvocabulary.com/kaoyan|
+|产品经理的人工智能库|https://easyai.tech/|
+|RLChina强化学习社区|http://rlchina.org/|
+|伯禹人工智能学院|https://www.boyuai.com/elites/|
+|深度学习（pytorch版）|https://www.boyuai.com/elites/course/cZu18YmweLv10OeV|
+|强化学习|https://www.boyuai.com/elites/course/xVqhU42F5IDky94x|
+|Lexica(人工智能图片)|https://lexica.art/|
 
