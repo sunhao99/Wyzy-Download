@@ -57,3 +57,12 @@
 |强化学习|https://www.boyuai.com/elites/course/xVqhU42F5IDky94x|
 |Lexica(人工智能图片)|https://lexica.art/|
 
+# 2022-10-02 公众号中的几个链接
+|名称|链接|
+|:-:|:-:|
+|科研霞子|https://keyanxiazi.bepass.cn/|
+|小木虫导航|http://hao.muchong.com/|
+|学术资源搜索|https://xueshu.lanfanshu.cn/|
+|文献鸟|https://www.storkapp.me/index.php|
+|谷粉学术|https://gfsoso.99lb.net/|
+|SCI-Hub文献检索|https://sci-hub.org.cn/|
