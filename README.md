@@ -66,3 +66,18 @@
 |文献鸟|https://www.storkapp.me/index.php|
 |谷粉学术|https://gfsoso.99lb.net/|
 |SCI-Hub文献检索|https://sci-hub.org.cn/|
+
+# 2022-10-04 公众号中的几个深度学习&机器学习的数据库链接
+|名称|链接|
+|:-:|:-:|
+|超神经|https://hyper.ai/|
+|数据集市|http://www.shujujishi.com/|
+|中科院自所的科学数据库|http://ia.cas.cn/kygz/kycg/kxsjk/|
+|启智AI协作平台|https://git.openi.org.cn/explore/datasets|
+
+Casia-Webface数据库下载
+Github：https://github.com/vinoth654321/Casia-Webface
+AiStudio：https://aistudio.baidu.com/aistudio/datasetdetail/21943
+Model Whale：https://www.heywhale.com/mw/dataset/62e71a76882b060b454b1c50
+代码天地：https://www.codetd.com/article/6513562（关门了）
+
