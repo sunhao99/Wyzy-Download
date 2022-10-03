@@ -76,8 +76,10 @@
 |启智AI协作平台|https://git.openi.org.cn/explore/datasets|
 
 Casia-Webface数据库下载
-Github：https://github.com/vinoth654321/Casia-Webface
-AiStudio：https://aistudio.baidu.com/aistudio/datasetdetail/21943
-Model Whale：https://www.heywhale.com/mw/dataset/62e71a76882b060b454b1c50
-代码天地：https://www.codetd.com/article/6513562（关门了）
+|名称|链接|
+|:-:|:-:|
+|Github|https://github.com/vinoth654321/Casia-Webface|
+|AiStudio|https://aistudio.baidu.com/aistudio/datasetdetail/21943|
+|Model Whale|https://www.heywhale.com/mw/dataset/62e71a76882b060b454b1c50|
+|代码天地|https://www.codetd.com/article/6513562（关门了）|
 
