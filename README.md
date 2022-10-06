@@ -104,3 +104,11 @@ Casia-Webface数据库下载
 |qwerty-learner|https://kaiyiwing.github.io/qwerty-learner/|
 |qwerty-learner|https://kaiyiwing.gitee.io/qwerty-learner/|
 |英语学习Eureka |https://eureka.mba/posts/3f43dc72.html|
+
+# 2022-10-08 公众号中的秘塔写作猫
+|名称|链接|
+|:-:|:-:|
+|秘塔写作猫|https://xiezuocat.com/#/|
+|量子速写生成器|https://xiezuocat.com/#/quantum|
+|文章生成器文章|https://mp.weixin.qq.com/s/8D2hozI_7IP6dWPWOT1uCA|
+|狗屁不通文章生成器|https://suulnnka.github.io/BullshitGenerator/index.html|
