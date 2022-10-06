@@ -91,3 +91,16 @@ Casia-Webface数据库下载
 |MyScript|https://webdemo.myscript.com/|
 |MathType官网|https://www.mathtype.cn/xiazai.html|
 |MathType非官网|https://wwu.lanzoub.com/i1VnE07vmbda|
+
+# 2022-10-07 公众号中的英语学习网站
+|名称|链接|
+|:-:|:-:|
+|typing-learner|https://github.com/tangshimin/typing-learner|
+|沙拉查词|https://saladict.crimx.com/|
+|Burning Vocabulary|https://burningvocabulary.com/|
+|qwerty-learner|https://github.com/Kaiyiwing/qwerty-learner|
+|qwerty-learner |https://qwerty-learner.vercel.app/|
+|qwerty-learner|https://qwerty.kaiyi.cool/|
+|qwerty-learner|https://kaiyiwing.github.io/qwerty-learner/|
+|qwerty-learner|https://kaiyiwing.gitee.io/qwerty-learner/|
+|英语学习Eureka |https://eureka.mba/posts/3f43dc72.html|
