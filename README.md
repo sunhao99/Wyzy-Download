@@ -105,7 +105,7 @@ Casia-Webface数据库下载
 |qwerty-learner|https://kaiyiwing.gitee.io/qwerty-learner/|
 |英语学习Eureka |https://eureka.mba/posts/3f43dc72.html|
 
-# 2022-10-08 公众号中的秘塔写作猫
+# 2022-10-10 公众号中的秘塔写作猫
 |名称|链接|
 |:-:|:-:|
 |秘塔写作猫|https://xiezuocat.com/#/|
