@@ -113,10 +113,3 @@ Casia-Webface数据库下载
 |文章生成器文章|https://mp.weixin.qq.com/s/8D2hozI_7IP6dWPWOT1uCA|
 |狗屁不通文章生成器|https://suulnnka.github.io/BullshitGenerator/index.html|
 
-# 家教人数与价格表
-|人数|价位（每人每小时）|
-|:-:|:-:|
-|1人|45元|
-|2人|35元|
-|3-6人|25元|
-|7-10 |15元|
