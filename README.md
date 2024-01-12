@@ -1,6 +1,29 @@
 # Wyzy-Download
 公众号：物语终焉，资料下载
     http://wyzy.ysepan.com/
+## 2024-1-12 短视频下载在线网页解析（来源Eureka博客）
+|名称|链接|
+|:-:|:-:|
+|在线短视频去水印解析|https://lab.5ime.cn/video/|
+|视频解析下载|https://weibo.iiilab.com/|
+|短视频解析下载去水印|https://www.helloty.cn/|
+|微视短视频解析下载|https://weishi.iiilab.com/|
+|抖音短视频解析下载|http://douyin.haiya360.com/|
+|抖音无水印工具|https://ouotool.com/dy|
+|抖音快手短视频直播视频去水印解析下载|http://www.dspjx.com/|
+|微博秒拍视频解析下载在线工具(影片下载)| https://weibomiaopai.com/|
+|智能-不求人去水印|https://parse.bqrdh.com/smart|
+|Instagram图片视频解析下载|https://instagram.iiilab.com/|
+|Vget|https://vget.xyz/|
+|TubeNinja|https://www.tubeninja.net/welcome/|
+
+
+
+
+
+
+
+    
 # 2022-8-23 简历模板打包下载
 蓝奏云：https://wwu.lanzoub.com/iYwtX0a37lna
 密码:Wyzy
