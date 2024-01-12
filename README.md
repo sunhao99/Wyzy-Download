@@ -1,6 +1,16 @@
 # Wyzy-Download
 公众号：物语终焉，资料下载
     http://wyzy.ysepan.com/
+## 2024-1-15 OCR识别
+|名称|Github地址|
+|:-:|:-:|
+|极简OCR|https://github.com/plantree/ocr-pwa|
+|PandaOCR|https://github.com/miaomiaosoft/PandaOCR|
+|Umi-OCR|https://github.com/hiroi-sora/Umi-OCR|
+|EasyOCR|https://github.com/JaidedAI/EasyOCR|
+|PaddleOCR|https://github.com/PaddlePaddle/PaddleOCR|
+|天若OCR|https://github.com/wangfreexx/wangfreexx-tianruoocr-cl-paddle|
+
 ## 2024-1-12 短视频下载在线网页解析（来源Eureka博客）
 |名称|链接|
 |:-:|:-:|
